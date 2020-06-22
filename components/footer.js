@@ -1,5 +1,5 @@
 const FOOTER = `
-  <footer>
+  <footer class="page-footer">
     <div class="footer-copyright">
       <div class="container">
         &copy; Copyright Yogasmara 2020
@@ -8,4 +8,4 @@ const FOOTER = `
   </footer>
 `;
 
-MAIN_CONTENT.insertAdjacentHTML("beforeend", FOOTER);
+export default FOOTER;
