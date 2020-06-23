@@ -1,5 +1,5 @@
 const FOOTER = `
-  <footer class="page-footer mg-top-50 z-depth-3">
+  <footer class="page-footer mg-top-50 z-depth-3 blue lighten-2">
     <div class="footer-copyright">
       <div class="container">
         &copy; Copyright Yogasmara 2020

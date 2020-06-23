@@ -1,7 +1,7 @@
 import HOME_PAGE from './home/home.js'
 
 const NAVBAR = `
-  <nav>
+  <nav class="blue lighten-2">
     <div class="nav-wrapper container">
       <a href="#home" class="brand-logo">Yogasmara</a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><h5>☰</h5></a>
