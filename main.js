@@ -24,7 +24,12 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   // initialization for slider
   let sliderElems = document.querySelectorAll('.slider');
-  let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });  
+  let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });
+
+  // initialization for sidenav
+  var elems = document.querySelectorAll('.sidenav');
+  var instances = M.Sidenav.init(elems);
+
 
 });
 
