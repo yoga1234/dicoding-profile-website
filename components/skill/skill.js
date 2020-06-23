@@ -5,7 +5,7 @@ const SKILL_PAGE = () => {
     <blockquote><h3>SKILLSET</h3></blockquote>
     <h5>I'm experienced with :</h5>
     <div class="row">
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>HTML</h5>
             <div class="progress">
@@ -13,7 +13,7 @@ const SKILL_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>CSS</h5>
             <div class="progress">
@@ -21,7 +21,7 @@ const SKILL_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>Javascript</h5>
             <div class="progress">
@@ -29,7 +29,7 @@ const SKILL_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>ReactJS</h5>
             <div class="progress">
@@ -37,7 +37,7 @@ const SKILL_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>NodeJS</h5>
             <div class="progress">
@@ -45,7 +45,7 @@ const SKILL_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s6">
+        <div class="col s12 m12 l6">
           <div class="card-panel">
             <h5>UI/UX Design</h5>
             <div class="progress">

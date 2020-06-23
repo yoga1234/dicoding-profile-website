@@ -4,7 +4,7 @@ const TESTIMONIALS_PAGE = () => {
     <div class="container">
       <h5 class="center-align">Testimonials</h5>
       <div class="row">
-        <div class="col s8 offset-s2">
+        <div class="col s12 m12 l12 center-align">
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
@@ -18,7 +18,7 @@ const TESTIMONIALS_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s8 offset-s2">
+        <div class="col s12 m12 l12">
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
             <div class="col s8">
@@ -32,7 +32,7 @@ const TESTIMONIALS_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s8 offset-s2">
+        <div class="col s12 m12 l12">
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
@@ -46,7 +46,7 @@ const TESTIMONIALS_PAGE = () => {
             </div>
           </div>
         </div>
-        <div class="col s8 offset-s2">
+        <div class="col s12 m12 l12">
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
             <div class="col s8">

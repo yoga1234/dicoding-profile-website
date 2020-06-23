@@ -15,8 +15,9 @@ const NAVBAR = `
   </nav>
 
   <ul class="sidenav" id="mobile-demo">
+    <li><a><h3 class="blue-text text-lighten-4">Menu</h3></a></li>
     <li class="nav-page sidenav-close"><a href="home">Home</a></li>
-    <li class="nav-page sidenav-close"><a href="skill">About</a></li>
+    <li class="nav-page sidenav-close"><a href="skill">Skill</a></li>
     <li class="nav-page sidenav-close"><a href="testimonials">Testimonials</a></li>
     <li class="nav-page sidenav-close"><a href="about">About</a></li>
   </ul>

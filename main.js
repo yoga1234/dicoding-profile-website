@@ -19,12 +19,12 @@ document.addEventListener('DOMContentLoaded', function() {
       MAIN_CONTENT.innerHTML = PAGE_LOADER(e.target.innerHTML);
       // re-initial slider after call the home page
       var sliderElems = document.querySelectorAll('.slider');
-      let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });    
+      let sliderInstances = M.Slider.init(sliderElems, { indicators: true, height: 750 });    
     });
   });
   // initialization for slider
   let sliderElems = document.querySelectorAll('.slider');
-  let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });
+  let sliderInstances = M.Slider.init(sliderElems, { indicators: true, height: 750 });
 
   // initialization for sidenav
   var elems = document.querySelectorAll('.sidenav');
