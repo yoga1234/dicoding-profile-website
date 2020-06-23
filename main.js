@@ -22,7 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
       let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });    
     });
   });
-  
   // initialization for slider
   let sliderElems = document.querySelectorAll('.slider');
   let sliderInstances = M.Slider.init(sliderElems, { indicators: true, });  
