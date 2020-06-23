@@ -1,0 +1,7 @@
+.mg-top-50 {
+  margin-top: 50px;
+}
+.hero-image {
+  background-position: center top !important;
+  filter: blur(3px) brightness(70%);
+}

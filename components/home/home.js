@@ -1,22 +1,24 @@
 const HOME_PAGE = () => {
   window.location.hash = "home";
   return `
-    <div class="slider">
-      <ul class="slides">
-        <li>
-          <div class="caption left-align">
-            <h3>left align caption</h3>
-            <h5>this is just dummy subtitle</h5>
-          </div>
-        </li>
-        <li>
-          <div class="caption right-align">
-            <h3>right align caption</h3>
-            <h5>this is just dummy subtitle</h5>
-          </div>
-        </li>
-      </ul>
-    </div>
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img class="hero-image" src="../../images/frontend.jpg">
+        <div class="caption left-align">
+          <h3>Hello, Yogasmara here.</h3>
+          <h5>I'm Frontend Developer.</h5>
+        </div>
+      </li>
+      <li>
+        <img class="hero-image" src="../../images/backend.jpg">
+        <div class="caption right-align">
+          <h3>Let Me Make App Interface For you</h3>
+          <h5 class="light grey-text text-lighten-3">I'm frontend engineer with interesting making app interfaces and UI/UX.</h5>
+        </div>
+      </li>
+    </ul>
+  </div>
   `;
 }
 
