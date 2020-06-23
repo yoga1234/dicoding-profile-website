@@ -8,7 +8,8 @@ const TESTIMONIALS_PAGE = () => {
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
-                <img src="../../images/testi-1-min.jpg" alt="" class="responsive-img valign"> <!-- notice the "circle" class -->
+                <img src="../../images/testi-1-min.jpg" alt="" class="responsive-img valign">
+                <!-- Photo by Brooke Cagle on Unsplash -->
               </div>
               <div class="col s8">
                 <h6>"<i>Great job, I will definitely be ordering again! Website was worth a fortune to my company.</i>"</h6>
@@ -25,7 +26,8 @@ const TESTIMONIALS_PAGE = () => {
               <blockquote>Jack F.</blockquote>
             </div>
               <div class="col s4">
-                <img src="../../images/testi-2-min.jpg" alt="" class="responsive-img valign"> <!-- notice the "circle" class -->
+                <img src="../../images/testi-2-min.jpg" alt="" class="responsive-img valign">
+                <!-- Photo by Lau Keith on Unsplash -->
               </div>
             </div>
           </div>
@@ -34,7 +36,8 @@ const TESTIMONIALS_PAGE = () => {
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
-                <img src="../../images/testi-3-min.jpg" alt="" class="responsive-img valign"> <!-- notice the "circle" class -->
+                <img src="../../images/testi-3-min.jpg" alt="" class="responsive-img valign">
+                <!-- Photo by Warren Wong on Unsplash -->
               </div>
               <div class="col s8">
                 <h6>"<i>I just can't get enough of website. I want to get a T-Shirt with website on it so I can show it off to everyone.</i>"</h6>
@@ -51,7 +54,8 @@ const TESTIMONIALS_PAGE = () => {
               <blockquote>Alianora L.</blockquote>
             </div>
               <div class="col s4">
-                <img src="../../images/testi-4-min.jpg" alt="" class="responsive-img valign"> <!-- notice the "circle" class -->
+                <img src="../../images/testi-4-min.jpg" alt="" class="responsive-img valign">
+                <!-- Photo by mason Wilkes on Unsplash -->
               </div>
             </div>
           </div>
