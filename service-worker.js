@@ -3,6 +3,7 @@ var urlsToCache = [
   "/",
   "index.html",
   "main.js",
+  "icon-512x512.png",
   "/js/materialize.min.js",
   "/images/backend.jpg",
   "/images/frontend.jpg",
