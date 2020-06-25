@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let sliderInstances = M.Slider.init(sliderElems, { indicators: true, height: 750 });    
     });
   });
+
   // initialization for slider
   let sliderElems = document.querySelectorAll('.slider');
   let sliderInstances = M.Slider.init(sliderElems, { indicators: true, height: 750 });
@@ -29,7 +30,6 @@ document.addEventListener('DOMContentLoaded', function() {
   // initialization for sidenav
   var elems = document.querySelectorAll('.sidenav');
   var instances = M.Sidenav.init(elems);
-
 
 });
 

@@ -1,5 +1,3 @@
-import HOME_PAGE from './home/home.js'
-
 const NAVBAR = `
   <nav class="blue lighten-2">
     <div class="nav-wrapper container">
