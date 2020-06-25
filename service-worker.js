@@ -1,4 +1,4 @@
-const CACHE_NAME = "yogasmarawebsitev01";
+const CACHE_NAME = "yogasmarawebsitev02";
 var urlsToCache = [
   "/",
   "index.html",
