@@ -1,9 +1,8 @@
-const CACHE_NAME = "yogasmarawebsitev02";
+const CACHE_NAME = "yogasmarawebsitev01";
 var urlsToCache = [
   "/",
   "index.html",
   "main.js",
-  "icon-512x512.png",
   "/js/materialize.min.js",
   "/images/backend.jpg",
   "/images/frontend.jpg",
@@ -12,6 +11,14 @@ var urlsToCache = [
   "/images/testi-3-min.jpg",
   "/images/testi-4-min.jpg",
   "/images/top-icon.png",
+  "/images/manifest-icon/72x72.png",
+  "/images/manifest-icon/96x96.png",
+  "/images/manifest-icon/128x128.png",
+  "/images/manifest-icon/144x144.png",
+  "/images/manifest-icon/152x152.png",
+  "/images/manifest-icon/192x192.png",
+  "/images/manifest-icon/384x384.png",
+  "/images/manifest-icon/512x512.png",
   "/css/main.css",
   "/css/materialize.min.css",
   "/components/footer.js",
