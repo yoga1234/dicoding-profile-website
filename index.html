@@ -12,6 +12,10 @@
   <link rel="shortcut icon" href="./images/top-icon.png" type="image/x-icon">
   <link rel="stylesheet" href="./css/materialize.min.css">
   <link rel="stylesheet" href="./css/main.css">
+  <link rel="apple-touch-icon" href="./images/manifest-icon/192x192.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="./images/manifest-icon/152x152.png"> <!-- ipad -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/manifest-icon/180x180.png"> <!-- iphone-retina -->
+  <link rel="apple-touch-icon" sizes="167x167" href="./images/manifest-icon/167x167.png"> <!-- ipad-retina -->
   <title>Yogasmara Profile Website</title>
 </head>
 <body>
@@ -22,22 +26,6 @@
   
   <script src="./js/materialize.min.js"></script>
   <script type="module" src="./main.js"></script>
-  <script>
-    // registering service worker
-    if("serviceWorker" in navigator) {
-      window.addEventListener("load", function() {
-        navigator.serviceWorker
-          .register("./service-worker.js")
-          .then(function() {
-            console.log("Pendaftaran serviceWorker berhasil.");
-          })
-          .catch(function() {
-            console.log("Pendaftaran serviceWorker gagal.");
-          });
-      });
-    } else {
-      console.log("serviceWorker belum didukung browser ini.");
-    }
-  </script>
+  <script src="./registering-service-worker.js"></script>
 </body>
 </html>
