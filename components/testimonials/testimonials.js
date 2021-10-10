@@ -8,7 +8,7 @@ const TESTIMONIALS_PAGE = () => {
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
-                <img src="../../images/testi-1-min.jpg" alt="" class="responsive-img valign">
+                <img src="../../dicoding-profile-website/images/testi-1-min.jpg" alt="" class="responsive-img valign">
                 <!-- Photo by Brooke Cagle on Unsplash -->
               </div>
               <div class="col s8">
@@ -26,7 +26,7 @@ const TESTIMONIALS_PAGE = () => {
               <blockquote>Jack F.</blockquote>
             </div>
               <div class="col s4">
-                <img src="../../images/testi-2-min.jpg" alt="" class="responsive-img valign">
+                <img src="../../dicoding-profile-website/images/testi-2-min.jpg" alt="" class="responsive-img valign">
                 <!-- Photo by Lau Keith on Unsplash -->
               </div>
             </div>
@@ -36,7 +36,7 @@ const TESTIMONIALS_PAGE = () => {
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
               <div class="col s4">
-                <img src="../../images/testi-3-min.jpg" alt="" class="responsive-img valign">
+                <img src="../../dicoding-profile-website/images/testi-3-min.jpg" alt="" class="responsive-img valign">
                 <!-- Photo by Warren Wong on Unsplash -->
               </div>
               <div class="col s8">
@@ -54,7 +54,7 @@ const TESTIMONIALS_PAGE = () => {
               <blockquote>Alianora L.</blockquote>
             </div>
               <div class="col s4">
-                <img src="../../images/testi-4-min.jpg" alt="" class="responsive-img valign">
+                <img src="../../dicoding-profile-website/images/testi-4-min.jpg" alt="" class="responsive-img valign">
                 <!-- Photo by mason Wilkes on Unsplash -->
               </div>
             </div>
