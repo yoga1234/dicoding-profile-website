@@ -4,7 +4,7 @@ const HOME_PAGE = () => {
   <div class="slider">
     <ul class="slides">
       <li>
-        <img class="hero-image" src="../../images/frontend.jpg">
+        <img class="hero-image" src="./../../images/frontend.jpg">
         <!-- Photo by Lee Campbell on Unsplash -->
         <div class="caption left-align">
           <h3>Hello, Yogasmara here.</h3>
@@ -12,7 +12,7 @@ const HOME_PAGE = () => {
         </div>
       </li>
       <li>
-        <img class="hero-image" src="../../images/backend.jpg">
+        <img class="hero-image" src="./../../images/backend.jpg">
         <!-- Photo by XXSS IS BACK from Pexels -->
         <div class="caption right-align">
           <h3>Let Me Make App Interface For you</h3>
