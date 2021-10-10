@@ -2,7 +2,7 @@
   "name": "Yogasmara Personal Website",
   "short_name": "Yoga Web",
   "description": "Personal website by Yogasmara",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#64B5F6",
   "theme_color": "#64B5F6",
